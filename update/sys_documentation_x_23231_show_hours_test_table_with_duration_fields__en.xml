@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Test Table with duration fields" language="en" table="x_23231_show_hours_test_table_with_duration_fields">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test Table with duration fields</label>
+            <language>en</language>
+            <name>x_23231_show_hours_test_table_with_duration_fields</name>
+            <plural>Test Table with duration fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-22 22:07:56</sys_created_on>
+            <sys_id>7a58b8810f851300411f86bce1050e0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Table with duration fields</sys_name>
+            <sys_package display_value="Show Hours Only in Duration" source="x_23231_show_hours">19d77c850f011300411f86bce1050eef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Show Hours Only in Duration">19d77c850f011300411f86bce1050eef</sys_scope>
+            <sys_update_name>sys_documentation_x_23231_show_hours_test_table_with_duration_fields__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-22 22:07:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
